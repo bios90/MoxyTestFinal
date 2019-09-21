@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="blue">#30A7E7</color>
+    <color name="blueTrans50">#8030A7E7</color>
+    <color name="blueLight">#39B4F5</color>
+    <color name="blueDark">#0F78B0</color>
+
+    <color name="green">#2AB398</color>
+    <color name="greenTrans50">#802AB398</color>
+    <color name="greenLight">#40c4aa</color>
+    <color name="greenDark">#069c7e</color>
+
+    <color name="red">#DB344C</color>
+    <color name="redLight">#E22F49</color>
+    <color name="redDark">#A00000</color>
+
+    <color name="black">#2A2D34</color>
+    <color name="blackTrans50">#802A2D34</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteTrans50">#80ffffff</color>
+    <color name="gray0">#F9F9F9</color>
+    <color name="gray1">#EBEBEC</color>
+    <color name="gray2">#C4C5C7</color>
+    <color name="gray3">#8A8C90</color>
+    <color name="gray4">#64666B</color>
+    <color name="gray5">#3D4046</color>
+
+    <color name="redNotification">#DB344C</color>
+    <color name="greenNotification">#2AB398</color>
+
+    <color name="el_yellow">#F5A623</color>
+    <color name="el_yellow_light">#FBC774</color>
+    <color name="el_yellow_dark">#D88F14</color>
+    <color name="el_yellow_trans">#40F5A623</color>
+</resources>
